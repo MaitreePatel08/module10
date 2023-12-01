@@ -1,1 +1,3 @@
-# module10
+Description
+
+With the purpose of offering a simple and intuitive CLI app that could generate a good-quality SVG logo for the user we undertook this project. After the user starts the app, he/she will be prompted to enter some inputs. The data obtained will be employed to generate an XML .svg file that can be rendered in the browser, offering an image that can be used as a personal brand statement in any of the user's projects without the decay in quality (pixelization) that raster images present while being zoomed in. This project was also an opportunity to learn how to write and conduct tests for classes/constructors and functions using the JEST package and to practice the modularization of code, with the corresponding operations of exporting and importing from them, that is at the heart of the Node.js style of scripting.
